@@ -1,4 +1,5 @@
-*Git* our that you are in the repos
+
+*GIT* our that you are in the repos
 Compressed be your *commits*
 Come to us your *log*
 Locally and *remotely*
@@ -11,4 +12,4 @@ to the questionnaire questions, which ask about commands used in certain steps.
 As we also forgive those of other geeks
 Don't let us fall into *detached HEAD*
 and free us from *SVN*
-`git commit --amend`
+`GIT commit --amend`
